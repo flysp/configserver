@@ -1,7 +1,0 @@
- public static void main (String[] args){
-
-        System.out.Pirntln("Hello World");
-    }
-}
-
-sdfjlaksdf sdfasdf
