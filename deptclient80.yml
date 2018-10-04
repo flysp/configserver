@@ -1,0 +1,11 @@
+server:
+  port: 80
+eureka:
+  client:
+    service-url:
+      defaultZone: http://admin:admin@www.eureka7000.com:7000/eureka/
+    register-with-eureka: false
+management:
+  security:
+    enabled: false  #解决actuator无权限问题
+
